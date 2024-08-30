@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ant0ninkA
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ at FMI and C# at SoftUni
+- 🌱 I’m currently learning C++ at FMI, SU and C# at SoftUni
 - 📫 How to reach me: antoninastoilova2004@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I haven't figured it out yet
